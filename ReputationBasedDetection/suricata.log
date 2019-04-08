@@ -1,0 +1,35 @@
+15/2/2019 -- 21:56:30 - <Notice> - This is Suricata version 3.2 RELEASE
+15/2/2019 -- 21:56:30 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS UDP config found, enabling DNS detection on port 53.
+15/2/2019 -- 21:56:30 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS TCP config found, enabling DNS detection on port 53.
+15/2/2019 -- 21:56:30 - <Warning> - [ERRCODE: SC_WARN_NO_STATS_LOGGERS(261)] - stats are enabled but no loggers are active
+15/2/2019 -- 21:56:31 - <Notice> - all 2 packet processing threads, 2 management threads initialized, engine started.
+15/2/2019 -- 21:56:31 - <Notice> - Signal Received.  Stopping engine.
+15/2/2019 -- 21:56:32 - <Notice> - Pcap-file module read 2 packets, 84 bytes
+15/2/2019 -- 21:59:11 - <Notice> - This is Suricata version 3.2 RELEASE
+15/2/2019 -- 21:59:11 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS UDP config found, enabling DNS detection on port 53.
+15/2/2019 -- 21:59:11 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS TCP config found, enabling DNS detection on port 53.
+15/2/2019 -- 21:59:11 - <Warning> - [ERRCODE: SC_WARN_NO_STATS_LOGGERS(261)] - stats are enabled but no loggers are active
+15/2/2019 -- 21:59:11 - <Notice> - all 2 packet processing threads, 2 management threads initialized, engine started.
+15/2/2019 -- 21:59:11 - <Notice> - Signal Received.  Stopping engine.
+15/2/2019 -- 21:59:12 - <Notice> - Pcap-file module read 2 packets, 84 bytes
+15/2/2019 -- 22:03:25 - <Notice> - This is Suricata version 3.2 RELEASE
+15/2/2019 -- 22:03:25 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS UDP config found, enabling DNS detection on port 53.
+15/2/2019 -- 22:03:25 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS TCP config found, enabling DNS detection on port 53.
+15/2/2019 -- 22:03:25 - <Warning> - [ERRCODE: SC_WARN_NO_STATS_LOGGERS(261)] - stats are enabled but no loggers are active
+15/2/2019 -- 22:03:25 - <Notice> - all 2 packet processing threads, 2 management threads initialized, engine started.
+15/2/2019 -- 22:03:25 - <Notice> - Signal Received.  Stopping engine.
+15/2/2019 -- 22:03:26 - <Notice> - Pcap-file module read 2 packets, 84 bytes
+15/2/2019 -- 22:06:49 - <Notice> - This is Suricata version 3.2 RELEASE
+15/2/2019 -- 22:06:49 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS UDP config found, enabling DNS detection on port 53.
+15/2/2019 -- 22:06:49 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS TCP config found, enabling DNS detection on port 53.
+15/2/2019 -- 22:06:49 - <Warning> - [ERRCODE: SC_WARN_NO_STATS_LOGGERS(261)] - stats are enabled but no loggers are active
+15/2/2019 -- 22:06:49 - <Notice> - all 2 packet processing threads, 2 management threads initialized, engine started.
+15/2/2019 -- 22:06:49 - <Notice> - Signal Received.  Stopping engine.
+15/2/2019 -- 22:06:50 - <Notice> - Pcap-file module read 2 packets, 84 bytes
+15/2/2019 -- 23:34:42 - <Notice> - This is Suricata version 3.2 RELEASE
+15/2/2019 -- 23:34:42 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS UDP config found, enabling DNS detection on port 53.
+15/2/2019 -- 23:34:42 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS TCP config found, enabling DNS detection on port 53.
+15/2/2019 -- 23:34:42 - <Warning> - [ERRCODE: SC_WARN_NO_STATS_LOGGERS(261)] - stats are enabled but no loggers are active
+15/2/2019 -- 23:34:42 - <Notice> - all 2 packet processing threads, 2 management threads initialized, engine started.
+15/2/2019 -- 23:34:42 - <Notice> - Signal Received.  Stopping engine.
+15/2/2019 -- 23:34:43 - <Notice> - Pcap-file module read 2 packets, 84 bytes
