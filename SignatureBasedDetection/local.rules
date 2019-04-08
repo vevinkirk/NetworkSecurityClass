@@ -1,0 +1,16 @@
+alert http any any -> any any (msg:"POLICY HTTP Portable network graphics downloaded";filemagic:"PNG";sid: 1;rev:1;)
+
+alert http $EXTERNAL_NET any -> $HOME_NET any (msg:"POLICY HTTP Base64 encoding detected";pcre:"/^[-A-Za-z0-9+=]{1,50}|=[^=]|={3,}$/Q";sid: 2;rev:1;)
+
+alert tcp any any -> $HOME_NET [:1024] (msg:"SCAN nmap -sS";threshold: type threshold,track by_src,count 15,seconds 30;sid: 3;rev:1;)
+
+alert dns $HOME_NET any -> any 53 (msg:"POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy";dns_query;pcre:"/^(?!bing|google|yahooN)/";lua:processdns.lua;sid: 4;rev:1;)
+
+
+
+
+
+
+
+
+

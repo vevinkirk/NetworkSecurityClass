@@ -1,0 +1,341 @@
+11/20/2017-23:07:53.638886  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.673893  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.674049  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.823588  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.861809  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.862080  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.862513  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.863876  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.903521  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.904797  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:53.957886  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.011515  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.012670  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.051845  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.052733  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.057753  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.087511  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.092884  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.093235  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.100231  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.125222  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.162606  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.163233  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.259831  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.523747  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.524359  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.547864  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:54.558413  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:07:56.645657  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.646931  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.664650  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.836599  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.837216  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.837664  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.850986  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.867656  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.874003  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.874970  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:56.913537  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.016200  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.022641  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.022810  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.052834  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.060696  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.061948  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.062416  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.062763  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.088764  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.103639  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.104470  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.141778  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.143782  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.180714  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.181111  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.212592  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.213010  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.213338  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.237434  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.237723  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.259057  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.259301  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.260375  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.292226  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.294164  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.294465  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.295259  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.298353  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.327473  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.331915  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.338586  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.338979  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.378376  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.378583  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.378873  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.415910  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.416248  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.416571  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.425405  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.425762  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.459984  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.460824  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.480198  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.496686  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.497061  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.510917  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.539255  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.539530  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.540156  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.540396  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.542417  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.574998  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.575685  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.583141  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.583800  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.584130  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.623516  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.624149  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.641991  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.659199  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.659798  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.660323  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.667857  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.669478  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.687451  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.699196  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.699488  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.723446  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.724492  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.724842  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.763283  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.763836  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.766781  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.769463  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.769788  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.808233  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.808905  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.809296  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.814140  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.814914  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.815005  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.848860  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.849553  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.857295  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.857932  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:57.858484  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:07:58.484747  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49163
+11/20/2017-23:08:04.496050  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:62086 -> 192.168.1.1:53
+11/20/2017-23:08:04.776838  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:62086
+11/20/2017-23:08:06.347141  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50346 -> 192.168.1.1:53
+11/20/2017-23:08:06.347192  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:64341 -> 192.168.1.1:53
+11/20/2017-23:08:06.347455  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63658 -> 192.168.1.1:53
+11/20/2017-23:08:06.347552  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:56119 -> 192.168.1.1:53
+11/20/2017-23:08:06.347745  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59501 -> 192.168.1.1:53
+11/20/2017-23:08:06.347956  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:60983 -> 192.168.1.1:53
+11/20/2017-23:08:06.348053  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:51839 -> 192.168.1.1:53
+11/20/2017-23:08:06.348392  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50641 -> 192.168.1.1:53
+11/20/2017-23:08:06.483367  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50346
+11/20/2017-23:08:06.483378  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:64341
+11/20/2017-23:08:06.522712  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50641
+11/20/2017-23:08:06.609999  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:56119
+11/20/2017-23:08:06.610010  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:51839
+11/20/2017-23:08:06.610011  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:60983
+11/20/2017-23:08:06.610014  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63658
+11/20/2017-23:08:06.610015  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:59501
+11/20/2017-23:08:07.114051  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:58803 -> 192.168.1.1:53
+11/20/2017-23:08:07.114098  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:56890 -> 192.168.1.1:53
+11/20/2017-23:08:07.324884  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:56890
+11/20/2017-23:08:07.358924  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:58803
+11/20/2017-23:08:07.862729  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:61184 -> 192.168.1.1:53
+11/20/2017-23:08:08.062552  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:61184
+11/20/2017-23:08:08.626394  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55212 -> 192.168.1.1:53
+11/20/2017-23:08:08.895584  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:55212
+11/20/2017-23:08:09.328573  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:52364 -> 192.168.1.1:53
+11/20/2017-23:08:09.406637  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:49554 -> 192.168.1.1:53
+11/20/2017-23:08:09.406823  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:58228 -> 192.168.1.1:53
+11/20/2017-23:08:09.515845  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:52364
+11/20/2017-23:08:09.667379  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:49554
+11/20/2017-23:08:09.706825  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:58228
+11/20/2017-23:08:10.093279  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59683 -> 192.168.1.1:53
+11/20/2017-23:08:10.227952  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:59683
+11/20/2017-23:08:10.826237  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:52910 -> 192.168.1.1:53
+11/20/2017-23:08:10.951715  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50287 -> 192.168.1.1:53
+11/20/2017-23:08:11.100433  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:52910
+11/20/2017-23:08:11.137811  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50287
+11/20/2017-23:08:11.402898  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:56323 -> 192.168.1.1:53
+11/20/2017-23:08:11.572386  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:56323
+11/20/2017-23:08:11.652628  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:49536 -> 192.168.1.1:53
+11/20/2017-23:08:11.778824  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:53758 -> 192.168.1.1:53
+11/20/2017-23:08:11.837868  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:49536
+11/20/2017-23:08:11.990107  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:53758
+11/20/2017-23:08:12.245543  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55690 -> 192.168.1.1:53
+11/20/2017-23:08:12.463805  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:56677 -> 192.168.1.1:53
+11/20/2017-23:08:12.472995  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:55690
+11/20/2017-23:08:12.510570  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:51637 -> 192.168.1.1:53
+11/20/2017-23:08:12.673841  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:56677
+11/20/2017-23:08:12.758588  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:51637
+11/20/2017-23:08:13.103325  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:61936 -> 192.168.1.1:53
+11/20/2017-23:08:13.346026  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:61936
+11/20/2017-23:08:13.680752  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63244 -> 192.168.1.1:53
+11/20/2017-23:08:13.878221  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63244
+11/20/2017-23:08:13.898673  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:56765 -> 192.168.1.1:53
+11/20/2017-23:08:14.108938  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:56765
+11/20/2017-23:08:14.367442  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63780 -> 192.168.1.1:53
+11/20/2017-23:08:14.541826  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63780
+11/20/2017-23:08:15.099715  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:61014 -> 192.168.1.1:53
+11/20/2017-23:08:15.277490  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:61014
+11/20/2017-23:08:15.786279  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:57546 -> 192.168.1.1:53
+11/20/2017-23:08:15.981166  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:57546
+11/20/2017-23:08:59.522841  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 188.225.38.247:80 -> 192.168.1.121:49160
+11/20/2017-23:09:52.131170  [**] [1:2:1] POLICY HTTP Base64 encoding detected [**] [Classification: (null)] [Priority: 3] {TCP} 168.143.243.230:80 -> 192.168.1.121:49162
+11/20/2017-23:11:31.747492  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50316 -> 192.168.1.1:53
+11/20/2017-23:11:31.957162  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50316
+11/20/2017-23:11:33.583192  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:49612 -> 192.168.1.1:53
+11/20/2017-23:11:33.583208  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:60595 -> 192.168.1.1:53
+11/20/2017-23:11:33.676132  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:49612
+11/20/2017-23:11:33.727319  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:60595
+11/20/2017-23:15:02.996909  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:64550 -> 192.168.1.1:53
+11/20/2017-23:15:03.224535  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:64550
+11/20/2017-23:15:04.733451  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:53515 -> 192.168.1.1:53
+11/20/2017-23:15:04.733512  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63638 -> 192.168.1.1:53
+11/20/2017-23:15:04.862199  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63638
+11/20/2017-23:15:04.895479  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:53515
+11/20/2017-23:17:31.660376  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59467 -> 192.168.1.1:53
+11/20/2017-23:17:31.720141  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:59467
+11/20/2017-23:18:30.171817  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:58081 -> 192.168.1.1:53
+11/20/2017-23:18:30.572991  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:58081
+11/20/2017-23:18:32.120434  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:65171 -> 192.168.1.1:53
+11/20/2017-23:18:32.120499  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:52020 -> 192.168.1.1:53
+11/20/2017-23:18:32.237046  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:65171
+11/20/2017-23:18:32.274614  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:52020
+11/20/2017-23:22:00.515714  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:57611 -> 192.168.1.1:53
+11/20/2017-23:22:00.778218  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:57611
+11/20/2017-23:22:02.490681  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50656 -> 192.168.1.1:53
+11/20/2017-23:22:02.490913  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:54813 -> 192.168.1.1:53
+11/20/2017-23:22:02.491068  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:52635 -> 192.168.1.1:53
+11/20/2017-23:22:02.491158  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55027 -> 192.168.1.1:53
+11/20/2017-23:22:02.491562  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:64078 -> 192.168.1.1:53
+11/20/2017-23:22:02.491671  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63530 -> 192.168.1.1:53
+11/20/2017-23:22:02.492246  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63665 -> 192.168.1.1:53
+11/20/2017-23:22:02.492536  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55829 -> 192.168.1.1:53
+11/20/2017-23:22:02.584991  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63530
+11/20/2017-23:22:02.626303  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50656
+11/20/2017-23:22:02.627716  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63665
+11/20/2017-23:22:02.627723  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:54813
+11/20/2017-23:22:02.627778  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:55027
+11/20/2017-23:22:02.627779  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:64078
+11/20/2017-23:22:02.627780  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:55829
+11/20/2017-23:22:02.667190  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:52635
+11/20/2017-23:22:03.135498  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59410 -> 192.168.1.1:53
+11/20/2017-23:22:03.136210  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59263 -> 192.168.1.1:53
+11/20/2017-23:22:03.282618  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:59410
+11/20/2017-23:22:03.323758  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:59263
+11/20/2017-23:22:03.759394  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:65263 -> 192.168.1.1:53
+11/20/2017-23:22:03.845433  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:65263
+11/20/2017-23:22:04.383594  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:62922 -> 192.168.1.1:53
+11/20/2017-23:22:04.470163  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:62922
+11/20/2017-23:22:04.975561  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:62513 -> 192.168.1.1:53
+11/20/2017-23:22:05.085350  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:62513
+11/20/2017-23:22:09.998398  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:52789 -> 192.168.1.1:53
+11/20/2017-23:22:09.998415  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59874 -> 192.168.1.1:53
+11/20/2017-23:22:11.013261  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59874 -> 192.168.1.1:53
+11/20/2017-23:22:11.013272  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:52789 -> 192.168.1.1:53
+11/20/2017-23:22:11.184946  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:61802 -> 192.168.1.1:53
+11/20/2017-23:22:11.272357  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:61802
+11/20/2017-23:22:11.293236  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55064 -> 192.168.1.1:53
+11/20/2017-23:22:11.375231  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:55064
+11/20/2017-23:22:12.026896  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59874 -> 192.168.1.1:53
+11/20/2017-23:22:12.026908  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:52789 -> 192.168.1.1:53
+11/20/2017-23:22:12.291628  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:65208 -> 192.168.1.1:53
+11/20/2017-23:22:12.463045  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63359 -> 192.168.1.1:53
+11/20/2017-23:22:13.305418  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:65208 -> 192.168.1.1:53
+11/20/2017-23:22:13.367369  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:65208
+11/20/2017-23:22:13.477605  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63359 -> 192.168.1.1:53
+11/20/2017-23:22:13.805730  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:60282 -> 192.168.1.1:53
+11/20/2017-23:22:13.882779  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:49235 -> 192.168.1.1:53
+11/20/2017-23:22:13.887233  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:60282
+11/20/2017-23:22:14.039424  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:52789 -> 192.168.1.1:53
+11/20/2017-23:22:14.039437  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59874 -> 192.168.1.1:53
+11/20/2017-23:22:14.179987  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55347 -> 192.168.1.1:53
+11/20/2017-23:22:14.490600  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63359 -> 192.168.1.1:53
+11/20/2017-23:22:14.897120  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:49235 -> 192.168.1.1:53
+11/20/2017-23:22:15.192612  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55347 -> 192.168.1.1:53
+11/20/2017-23:22:15.911161  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:49235 -> 192.168.1.1:53
+11/20/2017-23:22:15.982057  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:49235
+11/20/2017-23:22:16.207477  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55347 -> 192.168.1.1:53
+11/20/2017-23:22:16.502984  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63359 -> 192.168.1.1:53
+11/20/2017-23:22:18.048232  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:52789 -> 192.168.1.1:53
+11/20/2017-23:22:18.048265  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:59874 -> 192.168.1.1:53
+11/20/2017-23:22:18.219729  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55347 -> 192.168.1.1:53
+11/20/2017-23:22:18.781823  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50831 -> 192.168.1.1:53
+11/20/2017-23:22:19.031723  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:53075 -> 192.168.1.1:53
+11/20/2017-23:22:19.795163  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50831 -> 192.168.1.1:53
+11/20/2017-23:22:20.044944  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:53075 -> 192.168.1.1:53
+11/20/2017-23:22:20.511981  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:63359 -> 192.168.1.1:53
+11/20/2017-23:22:20.612389  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63359
+11/20/2017-23:22:20.809329  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50831 -> 192.168.1.1:53
+11/20/2017-23:22:20.891054  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50831
+11/20/2017-23:22:21.058874  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:53075 -> 192.168.1.1:53
+11/20/2017-23:22:22.228894  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:55347 -> 192.168.1.1:53
+11/20/2017-23:22:23.071257  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:53075 -> 192.168.1.1:53
+11/20/2017-23:22:23.132521  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:53075
+11/20/2017-23:22:23.414677  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:57227 -> 192.168.1.1:53
+11/20/2017-23:22:23.574982  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:57227
+11/20/2017-23:22:23.694571  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:62075 -> 192.168.1.1:53
+11/20/2017-23:22:24.116473  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:54061 -> 192.168.1.1:53
+11/20/2017-23:22:24.196599  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:54061
+11/20/2017-23:22:24.708259  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:62075 -> 192.168.1.1:53
+11/20/2017-23:22:24.827584  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:62075
+11/20/2017-23:22:24.865542  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:64587 -> 192.168.1.1:53
+11/20/2017-23:22:25.878308  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:64587 -> 192.168.1.1:53
+11/20/2017-23:22:26.116066  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:59874
+11/20/2017-23:22:26.347502  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50292 -> 192.168.1.1:53
+11/20/2017-23:22:26.893133  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:64587 -> 192.168.1.1:53
+11/20/2017-23:22:27.360625  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50292 -> 192.168.1.1:53
+11/20/2017-23:22:27.454167  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:65143 -> 192.168.1.1:53
+11/20/2017-23:22:28.374133  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50292 -> 192.168.1.1:53
+11/20/2017-23:22:28.468733  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:65143 -> 192.168.1.1:53
+11/20/2017-23:22:28.904426  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:64587 -> 192.168.1.1:53
+11/20/2017-23:22:29.127987  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:52789
+11/20/2017-23:22:29.245011  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:55347
+11/20/2017-23:22:29.482060  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:65143 -> 192.168.1.1:53
+11/20/2017-23:22:30.016267  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:49235
+11/20/2017-23:22:30.386988  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50292 -> 192.168.1.1:53
+11/20/2017-23:22:31.493887  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:65143 -> 192.168.1.1:53
+11/20/2017-23:22:32.913514  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:64587 -> 192.168.1.1:53
+11/20/2017-23:22:32.977921  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:64587
+11/20/2017-23:22:33.169134  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:52789
+11/20/2017-23:22:33.169146  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:59874
+11/20/2017-23:22:33.340512  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:55347
+11/20/2017-23:22:34.396478  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:50292 -> 192.168.1.1:53
+11/20/2017-23:22:35.504124  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.121:65143 -> 192.168.1.1:53
+11/20/2017-23:22:38.751559  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:62075
+11/20/2017-23:22:40.004949  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:52789
+11/20/2017-23:22:40.005167  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:59874
+11/20/2017-23:22:41.017962  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:52789
+11/20/2017-23:22:42.035796  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:59874
+11/20/2017-23:22:42.462053  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50292
+11/20/2017-23:22:42.467515  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63359
+11/20/2017-23:22:43.442338  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50292
+11/20/2017-23:22:43.481334  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63359
+11/20/2017-23:22:43.551342  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:65143
+11/20/2017-23:22:43.886082  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:49235
+11/20/2017-23:22:45.196370  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:55347
+11/20/2017-23:22:46.506940  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:63359
+11/20/2017-23:22:48.785729  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50831
+11/20/2017-23:22:49.037885  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:53075
+11/20/2017-23:22:49.457435  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50292
+11/20/2017-23:22:49.798443  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50831
+11/20/2017-23:22:50.050653  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:53075
+11/20/2017-23:22:50.620713  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:65143
+11/20/2017-23:22:51.061834  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:53075
+11/20/2017-23:22:52.235586  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:55347
+11/20/2017-23:22:54.866730  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:64587
+11/20/2017-23:22:55.881240  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:64587
+11/20/2017-23:22:56.349192  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50292
+11/20/2017-23:22:56.897819  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:64587
+11/20/2017-23:22:57.458607  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:65143
+11/20/2017-23:22:58.908945  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:64587
+11/20/2017-23:22:59.485289  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:65143
+11/20/2017-23:23:00.392640  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:50292
+11/20/2017-23:23:01.499985  [**] [1:3000004:1] POLICY DNS Domain name request with entropy > 3 and at least 85% of max entropy [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.1:53 -> 192.168.1.121:65143

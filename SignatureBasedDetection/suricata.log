@@ -1,0 +1,7 @@
+3/3/2019 -- 22:18:30 - <Notice> - This is Suricata version 3.2 RELEASE
+3/3/2019 -- 22:18:30 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS UDP config found, enabling DNS detection on port 53.
+3/3/2019 -- 22:18:30 - <Warning> - [ERRCODE: SC_ERR_DNS_CONFIG(240)] - no DNS TCP config found, enabling DNS detection on port 53.
+3/3/2019 -- 22:18:30 - <Warning> - [ERRCODE: SC_WARN_NO_STATS_LOGGERS(261)] - stats are enabled but no loggers are active
+3/3/2019 -- 22:18:30 - <Notice> - all 2 packet processing threads, 2 management threads initialized, engine started.
+3/3/2019 -- 22:18:30 - <Notice> - Signal Received.  Stopping engine.
+3/3/2019 -- 22:18:31 - <Notice> - Pcap-file module read 1944 packets, 625078 bytes
